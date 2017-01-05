@@ -1,0 +1,2 @@
+# CCP
+Custom Cuberite Plugin
