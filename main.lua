@@ -1,8 +1,8 @@
 PLUGIN = nil
 
 function Initialize(Plugin)
-	Plugin:SetName("CCP")
-	Plugin:SetVersion(1)
+	Plugin:SetName(g_PluginInfo.Name)
+	Plugin:SetVersion(g_PluginInfo.Version)
 
 	-- Hooks
 	
