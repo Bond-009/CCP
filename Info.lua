@@ -14,5 +14,10 @@ g_PluginInfo =
 			Handler = HandleDelCommand,
 			HelpString = "Deletes your equiped item",
 		},
+		["/ocelots"] = 
+		{
+			Handler = HandleOcelotsCommand,
+			HelpString = "Kils all ocelots",
+		},
 	},
 }
